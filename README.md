@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @yrshva
-- 👀 I’m interested in Front-end React Development and UI/UX, Motion Design
-- 🌱 I’m currently learning React-Native, Typescript
+- 👋 Hi, I’m Ana
+- 👀 I’m interested in React/React Native Development and UI/UX, Motion Design
+- 🌱 I’m currently learning React-Native
 - 💞️ I’m looking to collaborate on either big or start-up projects 
 - 📫 Lt's connect on LinkedIn https://www.linkedin.com/in/anastasiia-yershova/
 
