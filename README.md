@@ -29,7 +29,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrshva&layout=compact&theme=nightowl)](https://github.com/yrshva/github-readme-stats)
 ![yrshva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrshva&count_private=true&show_icons=true&theme=nightowl)
 
-<h3>Check out some products developed by me</h3>
+<h3>Check out some of the products developed by me</h3>
    <div id="products">
   
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=dictionary-app&theme=nightowl)](https://github.com/yrshva/dictionary-app)
