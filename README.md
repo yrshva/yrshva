@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <h2 align="center">Welcome to my GitHub</h2>
-  <h6>I'm Ana, Frontend Developer based in Todmorden, UK 🇬🇧</h6>
+  <p>I'm Ana, Frontend Developer based in Todmorden, UK 🇬🇧</p>
   
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h3>Technologies</h3>
