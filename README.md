@@ -32,9 +32,7 @@
 <h3>Check out some of the products developed by me</h3>
    <div id="products">
   
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=weather-forecast-app-with-select&theme=panda)](https://github.com/yrshva/weather-forecast-app-with-select)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=dictionary-app&theme=panda)](https://github.com/yrshva/dictionary-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=react-native-dictionary-app&theme=panda)](https://github.com/yrshva/react-native-dictionary-app)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=tournament&theme=panda)](https://github.com/yrshva/tournament)
 
    </div>
