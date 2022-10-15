@@ -26,7 +26,7 @@
   
   <h3>My GitHub Stats</h3>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrshva&layout=compact&theme=nightowl)](https://github.com/yrshva/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrshva&layout=compact&theme=nightowl)]
 ![yrshva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrshva&count_private=true&show_icons=true&theme=nightowl)
 
 <h3>Check out some of the products developed by me</h3>
