@@ -2,14 +2,15 @@
   <h2 align="center">Welcome to my GitHub</h2>
   <p>I'm Ana, Frontend Developer based in Manchester, UK</p>
   
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/ADD4w6XgqLBJohQdBK/giphy.gif" width="200"/>
   <h3>Technologies</h3>
   <div id="badges">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative Badge"/>
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" alt="Redux Badge"/>
     <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="Typescript Badge"/>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative Badge"/>
+    <img src="https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+    <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=F1F0EA" alt="Next Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript Badge"/>
+    <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" alt="Redux Badge"/>
     <img src="https://custom-icon-badges.herokuapp.com/badge/rest_api-20232A?style=for-the-badge&logo=logo_rest_api&logoColor=white" alt="REST API Badge"/>
     <img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5 Badge"/>
     <img src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3 Badge"/>
