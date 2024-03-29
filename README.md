@@ -23,12 +23,6 @@
   <a href="https://www.linkedin.com/in/anastasiia-yershova/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/yrshva">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
-  <a href="https://www.yrshva.com/">
-    <img src="https://custom-icon-badges.herokuapp.com/badge/yrshva-1075A6?style=for-the-badge&logo=yrshva1" alt="yrshva Badge"/>
-  </a>
 </div>
   
   <h3>My GitHub Stats</h3>
