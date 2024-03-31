@@ -19,26 +19,4 @@
     <img src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="Figma Badge"/>
     <img src="https://img.shields.io/badge/Adobe%20XD-20232A?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD Badge"/>
   </div>
-   <h3>Reach out to me</h3>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/anastasiia-yershova/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  
-  <h3>My GitHub Stats</h3>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yrshva&layout=compact&theme=nightowl)
-![yrshva's GitHub stats](https://github-readme-stats.vercel.app/api?username=yrshva&count_private=true&show_icons=true&theme=nightowl)
-
-<h3>Check out some of the products developed by me</h3>
-   <div id="products">
-  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=dictionary-app&theme=nightowl)](https://github.com/yrshva/dictionary-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=react-native-dictionary-app&theme=nightowl)](https://github.com/yrshva/react-native-dictionary-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=weather-forecast-app-with-select&theme=nightowl)](https://github.com/yrshva/weather-forecast-app-with-select)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yrshva&repo=tournament&theme=nightowl)](https://github.com/yrshva/tournament)
-
-   </div>
-
 </div>
