@@ -7,8 +7,9 @@
   <div id="badges">
     <img src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=61DAFB" alt="Typescript Badge"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactNative Badge"/>
-    <img src="https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-    <img src="https://img.shields.io/badge/Next.JS-20232A?style=for-the-badge&logo=nextdotjs&logoColor=F1F0EA" alt="Next Badge"/>
+    <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js Badge"/>
+    <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=nextdotjs&logoColor=F1F0EA" alt="Next.js Badge"/>
+    <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=3A840A" alt="Node.js Badge"/>
     <img src="https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="Javascript Badge"/>
     <img src="https://img.shields.io/badge/Redux-20232A?style=for-the-badge&logo=redux&logoColor=61DAFB" alt="Redux Badge"/>
     <img src="https://custom-icon-badges.herokuapp.com/badge/rest_api-20232A?style=for-the-badge&logo=logo_rest_api&logoColor=white" alt="REST API Badge"/>
